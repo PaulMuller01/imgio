@@ -1,0 +1,11 @@
+https://nend.io/img/idle-m-black.png
+https://nend.io/img/idle-m-brown.png
+https://nend.io/img/idle-m-caucasian.png
+https://nend.io/img/idle-m-white.png
+https://nend.io/img/idle-m-yellow.png
+
+https://nend.io/img/move-m-black.png
+https://nend.io/img/move-m-brown.png
+https://nend.io/img/move-m-caucasian.png
+https://nend.io/img/move-m-white.png
+https://nend.io/img/move-m-yellow.png
